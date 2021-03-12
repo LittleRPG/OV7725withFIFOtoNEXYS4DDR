@@ -1,0 +1,2 @@
+# OV7725withFIFOtoNEXYS4DDR
+将NEXYS 4 DDR FPGA板与带FIFO的OV7725摄像头连接，摄像头上电后采集到视频数据传输给FPGA板，然后FPGA板将视频数据进行缓存和显示。
